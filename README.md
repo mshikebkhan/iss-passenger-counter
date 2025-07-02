@@ -69,7 +69,7 @@ python main.py
 ## 📌 TODO Ideas
 
 - Add clicking sounds to buttons
-- Add an alarm when the timer ends
+- Show names of all astronauts available in ISS
 - Or anything else you think of!
 
 ---
