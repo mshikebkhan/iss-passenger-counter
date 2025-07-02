@@ -54,4 +54,32 @@ venv\Scripts\activate         # For Windows
 pip install -r requirements.txt
 python main.py
 ```
+---
+
+## 👥 Contributing
+
+1. Fork the repository
+2. Create your feature branch: `git checkout -b feature-name`
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request 🚀
+
+---
+
+## 📌 TODO Ideas
+
+- Add clicking sounds to buttons
+- Add an alarm when the timer ends
+- Or anything else you think of!
+
+---
+
+## 📄 License
+
+[MIT License](LICENSE)
+
+---
+
+Made with ❤️ by Shikeb Khan
+
 
