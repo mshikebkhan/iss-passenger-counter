@@ -16,6 +16,7 @@ def update_passengers_num():
 # ---- UI SETUP ---- #
 window = Tk()
 window.title("ISS Passengers")
+window.iconbitmap("astronaut.ico")
 window.config(padx=50, pady=30)
 
 # Heading
