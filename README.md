@@ -49,9 +49,6 @@ With just a click, you can find out how many astronauts are floating above Earth
 ```bash
 git clone https://github.com/mshikebkhan/iss-passenger-counter.git
 cd iss-passenger-counter
-python -m venv venv
-venv\Scripts\activate         # For Windows
-pip install -r requirements.txt
 python main.py
 ```
 ---
