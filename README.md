@@ -13,7 +13,7 @@ With just a click, you can find out how many astronauts are floating above Earth
 
 ## 💻 Download for Windows
 
-🔗 [Download Now!](https://github.com/mshikebkhan/iss-passenger-counter/releases/download/v1.0.0/ISS-PassengerCounterSetup.exe)
+🔗 [Download Now!](https://github.com/mshikebkhan/iss-passenger-counter/releases/download/v1.0.0/ISS-PassengersCounterSetup.exe)
 
 ---
 
